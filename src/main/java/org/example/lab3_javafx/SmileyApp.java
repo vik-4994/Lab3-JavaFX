@@ -16,6 +16,7 @@ import javafx.stage.Stage;
 
 public class SmileyApp extends Application {
 
+
     @Override
     public void start(Stage stage) {
         Group root = new Group();
